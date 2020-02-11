@@ -7,6 +7,6 @@ function mostrar()
 	dato=prompt("ingresa tu nombre");
 
 	alert(dato);
-
+//dsfasdf
 }
 
