@@ -13,5 +13,5 @@ function mostrarAumento()
     resultado = importe - descuento;
 
     document.getElementById("resultado").value = resultado;
-    
+    //asdfasdf
 }
